@@ -8,6 +8,12 @@ public class FactorialIterative {
         System.out.println("This program will show the factorial of the given number in iterative way");
         System.out.print("\nEnter the number: ");
         int num = input.nextInt();
+
+        if (num < 0) {
+            System.out.println("Invalid number..kindly enter a positive number");
+            return;
+        }
+
         int fact=1;
 /*        for(int i = 1;  i <=num; i++){
             fact= fact * i;
@@ -18,6 +24,7 @@ public class FactorialIterative {
 
         int i =1;
         while(i<=num){
+
             fact = fact * i;
             i++;
         }
