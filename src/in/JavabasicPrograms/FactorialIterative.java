@@ -9,8 +9,17 @@ public class FactorialIterative {
         System.out.print("\nEnter the number: ");
         int num = input.nextInt();
         int fact=1;
-        for(int i = 1;  i <=num; i++){
+/*        for(int i = 1;  i <=num; i++){
             fact= fact * i;
+        }
+        System.out.println("The factorial of " +  num + " is " + fact);*/
+
+        // we can also use while loop for this as
+
+        int i =1;
+        while(i<=num){
+            fact = fact * i;
+            i++;
         }
         System.out.println("The factorial of " +  num + " is " + fact);
     }
