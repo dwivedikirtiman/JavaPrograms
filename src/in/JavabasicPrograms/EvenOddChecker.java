@@ -1,3 +1,5 @@
+//This program will check the even or odd number
+
 package in.JavabasicPrograms;
 
 import java.util.Scanner;
