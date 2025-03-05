@@ -1,3 +1,5 @@
+//This program will show the factorial of the given number in an iterative way
+
 package in.JavabasicPrograms;
 
 import java.util.Scanner;
