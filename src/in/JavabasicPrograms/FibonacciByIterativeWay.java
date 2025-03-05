@@ -1,3 +1,5 @@
+//This program shows the Fibonacci series up to the given number of terms.
+
 package in.JavabasicPrograms;
 
 import java.util.Scanner;
