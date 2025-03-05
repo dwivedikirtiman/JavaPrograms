@@ -1,3 +1,5 @@
+//This program will find the sum of the given numbers
+
 package in.JavabasicPrograms;
 
 import java.util.Scanner;
