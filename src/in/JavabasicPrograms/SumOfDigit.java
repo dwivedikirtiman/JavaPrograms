@@ -1,3 +1,5 @@
+//This program will add the digits of the given number
+
 package in.JavabasicPrograms;
 
 import java.util.Scanner;
