@@ -1,4 +1,4 @@
-//This program will add the digits of the given number
+//This program will take a number from the user and then it wiil add the digits of the given number
 
 package in.JavabasicPrograms;
 
