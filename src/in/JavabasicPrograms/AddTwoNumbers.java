@@ -11,6 +11,7 @@ public class AddTwoNumbers {
         int sum = a + b;
         System.out.println("The sum of the given numbers are :" + sum);*/
 
+        //Now user can take input from following codes, instead of declaring directly
         Scanner input = new Scanner(System.in);
         System.out.println("This program will show the addition of the two number");
         System.out.print("\nEnter the first number: ");
