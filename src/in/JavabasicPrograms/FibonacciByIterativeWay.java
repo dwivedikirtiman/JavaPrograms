@@ -19,6 +19,6 @@ public class FibonacciByIterativeWay {
             b = c;                // Shift b to next term
         }
 
-        input.close();  
+        input.close();  // Close the Scanner to free resources
     }
 }
