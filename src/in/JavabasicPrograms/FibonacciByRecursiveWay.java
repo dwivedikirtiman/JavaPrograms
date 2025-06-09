@@ -17,7 +17,7 @@ public class FibonacciByRecursiveWay {
             input.close();
         }
 
-        // Recursive function to calculate Fibonacci number
+       
         public static int fibonacci(int n) {
             if (n <= 0) {
                 return 0;
