@@ -22,7 +22,7 @@ public class FactorialIterative {
         }
         System.out.println("The factorial of " +  num + " is " + fact);*/
 
-  
+        // we can also use while loop for this as
 
         int i =1;
         while(i<=num){
